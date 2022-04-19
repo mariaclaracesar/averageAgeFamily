@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "averageAgeFamily",
+    "slug": "averageAgeFamily",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
