@@ -1,7 +1,7 @@
 import styled from "styled-components/native";
 
 export const Container = styled.TouchableOpacity`
-  width: 250px;
+  width: 180px;
   background-color: #55CBCD;
 
   padding: 18px;
@@ -11,6 +11,8 @@ export const Container = styled.TouchableOpacity`
 
   align-items: center;
   justify-content: center;
+
+  
 
 `;
 
